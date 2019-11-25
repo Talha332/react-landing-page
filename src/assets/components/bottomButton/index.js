@@ -5,7 +5,7 @@ class BottomBtn extends Component{
     {
         return(
             <div className="">
-                <a href="#" class="buttom-btn">view our website</a><div class="clear"></div>
+                <a href="#" class="buttom-btn">View our website</a><div class="clear"></div>
             </div>
         )
     }
