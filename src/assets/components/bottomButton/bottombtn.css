@@ -1,0 +1,18 @@
+.buttom-btn{
+	display:block;
+	margin:20px auto;
+	padding:20px;
+	width:200px;
+	text-align:center;
+	border:2px solid #70d625;
+	border-radius:4px;
+	color:#70d625;
+	font-weight:700;
+	text-decoration:none;
+	font-size:20px;
+	text-transform:uppercase;
+}
+.buttom-btn:hover{
+	background:#70d625;
+	color:#000;
+}

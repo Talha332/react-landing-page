@@ -1,0 +1,17 @@
+.top-boxs {
+    width: 186px;
+    position: relative;
+    float: left;
+    margin: 5px 8px;
+    text-align: center;
+}
+.top-boxs-inner{
+	width:186px;
+	position:absolute;
+	left:0;
+	right:0;
+	top:30%;
+}
+.top-boxs-inner p{
+	font-size:16px;
+}
